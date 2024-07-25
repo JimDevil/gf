@@ -1,4 +1,4 @@
-SHELL := /bin/bash
+1SHELL := /bin/bash
 
 .PHONY: tidy
 tidy:
